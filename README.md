@@ -29,16 +29,18 @@ Here are some ideas to get you started:
 
 <p align="left">🔭 I’m currently working on 'Med.ai', an AI-powered healthcare system.<br><br>🌱 I’m currently learning Advanced Python, Machine Learning, and Flutter.<br><br>👯 I’m looking to collaborate on AI/ML and flutter projects.<br><br>🏆 Achievements: SIH'24 Winner.<br><br>🤔 I’m looking for help with open-source contributions.<br><br>💬 Ask me about AI, Winning SIH and hackathons, or impactful projects.<br><br>📫 How to reach me: <a href="mailto:prabhjotassi16@gmail.com">prabhjotassi16@gmail.com</a><<br><br>😄 Pronouns: He/Him<br><br>⚡ Fun fact: What did the spider do on the computer? Made a website! 🕷️💻</p>
 
-<h3 align="left">🌐 Let's Connect</h3>
+<h2 align="center">🌐 Let's Connect</h2>
 
-<div align="left">
+<div align="center">
   <a href="prabhjotassi16@gmail.com" style="margin-right: 10px;">
-      <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="30" alt="gmail logo"  />
+      <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="30" alt="gmail logo"  style="margin-right: 10px"/>
   </a>
   <a href="https://www.linkedin.com/in/prabhjotsinghassi/" target="_blank" style="margin-left: 10px;">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="30" alt="linkedin logo" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="30" alt="linkedin logo" style="margin-left: 10px;" />
   </a>
 </div>
+
+---
 
 <h2 align="center">⚒️ Languages - Frameworks - Tools ⚒️</h2>
 
@@ -118,10 +120,9 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="50" alt="webstorm logo"  />
 </div>
 <br clear="both">
+
 ---
 <h2 align="center">⚡ Stats ⚡</h2>
-
-###
 
 <br clear="both">
 

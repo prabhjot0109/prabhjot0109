@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 <div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=prabhjot0109.prabhjot0109&left_text=Profile%20Views"  />
 </div>
-
+<h1 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=600&size=40&duration=4000&pause=1000&color=1F6FEB&center=true&vCenter=true&width=500&lines=Hi+There!+%F0%9F%91%8B;I'm+Prabhjot+Singh+Assi!" alt="Typing SVG" /></a>
-
+</h1>
 <!-- <img src="Assets\developer.gif" alt="GitHub Banner" width="60%" /> -->
 <br clear="both">
 
-<h2 align="center">A computer science & engineering student and passionate software developer from India, focused on creating innovative tech solutions.</h2>
+<h3 align="center">A computer science & engineering student and passionate software developer from India, focused on creating innovative tech solutions.</h3>
 
 ###
 
@@ -38,9 +38,7 @@ Here are some ideas to get you started:
 
 <br clear="both">
 
-<h2 align="center">🌐 Let's Connect</h2></h2>
-
-###
+<h2 align="center">🌐 Let's Connect</h2>
 
 <div align="center">
   <a href="prabhjotassi16@gmail.com">
@@ -150,15 +148,18 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=prabhjot0109&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&rank_icon=github&border_radius=10&locale=en&hide_border=false" height="160" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prabhjot0109&locale=en&hide_title=false&layout=donut&langs_count=10&theme=dark&hide_border=false&border_radius=10" height="160" alt="languages graph"  />
 
- <!-- <img src="https://github-contributor-stats.vercel.app/api?username=prabhjot0109&limit=4&theme=dark&combine_all_yearly_contributions=true&hide_title=false&layout=donut&langs_count=10&hide_border=false&border_radius=10" height="160"/> -->
+ <img src="https://github-contributor-stats.vercel.app/api?username=prabhjot0109&limit=4&theme=dark&combine_all_yearly_contributions=true&hide_title=false&layout=donut&langs_count=10&hide_border=false&border_radius=10" height="160"/>
+
+---
 
   <img src="https://github-profile-trophy.vercel.app?username=prabhjot0109&theme=darkhub&column=8&margin-w=10&no-bg=false&row=1" height="100" alt="trophy graph"  />
+
+---
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=prabhjot0109&theme=monokai&area=true&radius=10&bg_color=0d1117" height="266" alt="activity-graph graph"  />
 </div>
 
-###
-
+---
 <br clear="both">
 
 <h2 align="center">🐍 My Contributions 🐍</h2>

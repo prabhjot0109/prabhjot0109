@@ -25,14 +25,13 @@ Here are some ideas to get you started:
 
 <h3 align="left">👩‍💻  About Me:</h3>
 
-<img align="right" width = "300" height="300" src="Assets/developer_new.gif"  />
+<img align="right" width = "300" height="300" src="Assets/developer.gif"/>
 
+<p align="left">🔭 I’m currently working on 'Med.ai', an AI-powered healthcare system.<br><br>🌱 I’m currently learning Advanced Python, Machine Learning, and Flutter.<br><br>👯 I’m looking to collaborate on AI/ML and flutter projects.<br><br>🏆 Achievements: SIH'24 Winner.<br><br>🤔 I’m looking for help with open-source contributions.<br><br>💬 Ask me about AI, Winning SIH and hackathons, or impactful projects.<br><br>📫 How to reach me: <a href="mailto:prabhjotassi16@gmail.com">prabhjotassi16@gmail.com</a><<br><br>😄 Pronouns: He/Him<br><br>⚡ Fun fact: What did the spider do on the computer? Made a website! 🕷️💻</p>
 
-<p align="left">🔭 I’m currently working on 'Med.ai', an AI-powered healthcare system.<br>🌱 I’m currently learning Advanced Python, Machine Learning, and Flutter.<br>👯 I’m looking to collaborate on AI/ML and flutter projects.<br>🏆 Achievements: SIH'24 Winner.<br>🤔 I’m looking for help with open-source contributions.<br>💬 Ask me about AI, Winning SIH and hackathons, or impactful projects.<br>📫 How to reach me: <a href="mailto:prabhjotassi16@gmail.com">prabhjotassi16@gmail.com</a><br>😄 Pronouns: He/Him<br>⚡ Fun fact: What did the spider do on the computer? Made a website! 🕷️💻</p>
-<br clear="both">
-<h2 align="center">🌐 Let's Connect</h2>
+<h3 align="left">🌐 Let's Connect</h3>
 
-<div align="center">
+<div align="left">
   <a href="prabhjotassi16@gmail.com" style="margin-right: 10px;">
       <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="30" alt="gmail logo"  />
   </a>
@@ -41,13 +40,7 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-
-
----
-
 <h2 align="center">⚒️ Languages - Frameworks - Tools ⚒️</h2>
-
-###
 
 <br clear="both">
 
@@ -124,7 +117,7 @@ Here are some ideas to get you started:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="50" alt="webstorm logo"  />
 </div>
-
+<br clear="both">
 ---
 <h2 align="center">⚡ Stats ⚡</h2>
 
@@ -135,7 +128,7 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=prabhjot0109&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=10&date_format=M%20j%5B,%20Y%5D" height="160" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=prabhjot0109&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&rank_icon=github&border_radius=10&locale=en&hide_border=false" height="160" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prabhjot0109&locale=en&hide_title=false&layout=donut&langs_count=10&theme=dark&hide_border=false&border_radius=10" height="160" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prabhjot0109&locale=en&hide_title=false&layout=compact&langs_count=10&theme=dark&hide_border=false&border_radius=10" height="160" alt="languages graph"  />
 
  <!-- <img src="https://github-contributor-stats.vercel.app/api?username=prabhjot0109&limit=4&theme=dark&combine_all_yearly_contributions=true&hide_title=false&layout=donut&langs_count=10&hide_border=false&border_radius=10" height="160"/> -->
 

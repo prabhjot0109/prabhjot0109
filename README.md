@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 
 <p align="left">🔭 I’m currently working on 'Med.ai', an AI-powered healthcare system.<br>🌱 I’m currently learning Advanced Python, Machine Learning, and Flutter.<br>👯 I’m looking to collaborate on AI/ML and flutter projects.<br>🏆 Achievements: SIH'24 Winner.<br>🤔 I’m looking for help with open-source contributions.<br>💬 Ask me about AI, Winning SIH and hackathons, or impactful projects.<br>📫 How to reach me: <a href="mailto:prabhjotassi16@gmail.com">prabhjotassi16@gmail.com</a><br>😄 Pronouns: He/Him<br>⚡ Fun fact: What did the spider do on the computer? Made a website! 🕷️💻</p>
-
+<br clear="both">
 <h2 align="center">🌐 Let's Connect</h2>
 
 <div align="center">

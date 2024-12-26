@@ -20,11 +20,9 @@ Here are some ideas to get you started:
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=600&size=40&duration=5000&pause=1000&color=1F6FEB&center=true&vCenter=true&width=600&lines=Hi+There!+%F0%9F%91%8B;I'm+Prabhjot+Singh+Assi!" alt="Typing SVG" /></a>
 </h1>
 <!-- <img src="Assets\developer.gif" alt="GitHub Banner" width="60%" /> -->
-<br clear="both">
 
 <h3 align="center">A computer science & engineering student and passionate software developer from India, focused on creating innovative tech solutions.</h3>
 
-<br>
 <h3 align="left">👩‍💻  About Me:</h3>
 
 <img align="right" width = "300" height="300" src="Assets/developer_new.gif"  />
@@ -35,11 +33,11 @@ Here are some ideas to get you started:
 <h2 align="center">🌐 Let's Connect</h2>
 
 <div align="center">
-  <a href="prabhjotassi16@gmail.com">
+  <a href="prabhjotassi16@gmail.com" style="margin-right: 10px;">
       <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="30" alt="gmail logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/prabhjotsinghassi/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="30" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/prabhjotsinghassi/" target="_blank" style="margin-left: 10px;">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="30" alt="linkedin logo" />
   </a>
 </div>
 

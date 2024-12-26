@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">👩‍💻  About Me:</h3>
 
-<img align="right" width = "320" height="320" src="Assets/developer.gif"  />
+<img align="right" width = "360" height="360" src="Assets/developer_new.gifgif"  />
 
 ###
 

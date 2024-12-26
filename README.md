@@ -127,11 +127,11 @@ Here are some ideas to get you started:
 <br clear="both">
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=prabhjot0109&locale=en&mode=daily&theme=default&hide_border=false&border_radius=10&date_format=M%20j%5B,%20Y%5D" height="160" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=prabhjot0109&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&rank_icon=github&border_radius=10&locale=en&hide_border=false" height="160" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prabhjot0109&locale=en&hide_title=false&layout=compact&langs_count=10&theme=default&hide_border=false&border_radius=10" height="160" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=prabhjot0109&locale=en&mode=daily&theme=transparent&hide_border=false&border_radius=10&date_format=M%20j%5B,%20Y%5D" height="160" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=prabhjot0109&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&rank_icon=github&border_radius=10&locale=en&hide_border=false" height="160" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prabhjot0109&locale=en&hide_title=false&layout=compact&langs_count=10&theme=transparent&hide_border=false&border_radius=10" height="160" alt="languages graph"  />
 
- <!-- <img src="https://github-contributor-stats.vercel.app/api?username=prabhjot0109&limit=4&theme=dark&combine_all_yearly_contributions=true&hide_title=false&layout=donut&langs_count=10&hide_border=false&border_radius=10" height="160"/> -->
+ <!-- <img src="https://github-contributor-stats.vercel.app/api?username=prabhjot0109&limit=4&theme=transparent&combine_all_yearly_contributions=true&hide_title=false&layout=donut&langs_count=10&hide_border=false&border_radius=10" height="160"/> -->
 
 ---
 

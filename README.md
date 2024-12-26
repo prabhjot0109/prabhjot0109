@@ -32,13 +32,13 @@ Here are some ideas to get you started:
 ---
 <h2 align="center">🌐 Let's Connect</h2>
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+<div align="center" style="display: flex; justify-content: center; gap: 100px;">
   <a href="mailto:prabhjotassi16@gmail.com">
-      <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="40" alt="gmail logo" />
+      <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="32" alt="gmail logo" />
 
   </a>
   <a href="https://www.linkedin.com/in/prabhjotsinghassi/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="40" alt="linkedin logo" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="32" alt="linkedin logo" />
   </a>
 </div>
 
@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
 <br clear="both">
 
-<div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center;">
+<div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="c logo"  />

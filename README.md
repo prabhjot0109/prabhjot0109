@@ -24,20 +24,13 @@ Here are some ideas to get you started:
 
 <h3 align="center">A computer science & engineering student and passionate software developer from India, focused on creating innovative tech solutions.</h3>
 
-###
-<br>
 <br>
 <h3 align="left">👩‍💻  About Me:</h3>
 
 <img align="right" width = "300" height="300" src="Assets/developer_new.gif"  />
 
-###
 
-<p align="left">🔭 I’m currently working on 'Med.ai', an AI-powered healthcare system.<br>🌱 I’m currently learning Advanced Python, Machine Learning, and Flutter.<br>👯 I’m looking to collaborate on AI/ML and flutter projects.<br>🏆Achievements: SIH'24 Winner.<br>🤔 I’m looking for help with open-source contributions.<br>💬 Ask me about AI, Winning SIH and hackathons, or impactful projects.<br>📫 How to reach me: <a href="mailto:prabhjotassi16@gmail.com">prabhjotassi16@gmail.com</a><br>😄 Pronouns: He/Him<br>⚡ Fun fact: What did the spider do on the computer? Made a website! 🕷️💻</p>
-
-###
-
-<br clear="both">
+<p align="left">🔭 I’m currently working on 'Med.ai', an AI-powered healthcare system.<br>🌱 I’m currently learning Advanced Python, Machine Learning, and Flutter.<br>👯 I’m looking to collaborate on AI/ML and flutter projects.<br>🏆 Achievements: SIH'24 Winner.<br>🤔 I’m looking for help with open-source contributions.<br>💬 Ask me about AI, Winning SIH and hackathons, or impactful projects.<br>📫 How to reach me: <a href="mailto:prabhjotassi16@gmail.com">prabhjotassi16@gmail.com</a><br>😄 Pronouns: He/Him<br>⚡ Fun fact: What did the spider do on the computer? Made a website! 🕷️💻</p>
 
 <h2 align="center">🌐 Let's Connect</h2>
 
@@ -50,9 +43,9 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-###
 
-<br clear="both">
+
+---
 
 <h2 align="center">⚒️ Languages - Frameworks - Tools ⚒️</h2>
 
@@ -134,10 +127,7 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="50" alt="webstorm logo"  />
 </div>
 
-###
-
-<br clear="both">
-
+---
 <h2 align="center">⚡ Stats ⚡</h2>
 
 ###
@@ -157,17 +147,12 @@ Here are some ideas to get you started:
 
 ---
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prabhjot0109&theme=monokai&area=true&radius=10&bg_color=0d1117" height="266" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prabhjot0109&theme=monokai&area=true&radius=10&bg_color=0d1117" height="300" alt="activity-graph graph"  />
 </div>
 
 ---
-<br clear="both">
 
 <h2 align="center">🐍 My Contributions 🐍</h2>
-
-###
-
-<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />

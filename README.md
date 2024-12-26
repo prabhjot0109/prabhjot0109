@@ -17,7 +17,7 @@ Here are some ideas to get you started:
   <img src="https://visitor-badge.laobi.icu/badge?page_id=prabhjot0109.prabhjot0109&left_text=Profile%20Views"  />
 </div>
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=600&size=50&duration=5000&pause=1000&color=1F6FEB&center=true&vCenter=true&width=600&lines=Hi+There!+%F0%9F%91%8B;I'm+Prabhjot+Singh+Assi!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=600&size=40&duration=5000&pause=1000&color=1F6FEB&center=true&vCenter=true&width=600&lines=Hi+There!+%F0%9F%91%8B;I'm+Prabhjot+Singh+Assi!" alt="Typing SVG" /></a>
 </h1>
 <!-- <img src="Assets\developer.gif" alt="GitHub Banner" width="60%" /> -->
 <br clear="both">

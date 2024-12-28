@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 </div>
 
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=600&size=40&duration=5000&pause=1000&color=37a7ff&center=true&vCenter=true&width=600&lines=Hi+There!+%F0%9F%91%8B;I'm+Prabhjot+Singh+Assi!" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Righteous&size=40&duration=4000&pause=1000&color=37a7ff&center=true&vCenter=true&width=600&lines=Hi+There!+👋;I'm+Prabhjot+Singh+Assi!"/>
 </h1>
 
 <h3 align="center">A computer science & engineering student and passionate software developer from India, focused on creating innovative tech solutions.</h3>
@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 <br clear="both">
 
-<div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="c logo"  />

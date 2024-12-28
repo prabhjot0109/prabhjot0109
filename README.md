@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">A computer science & engineering student and passionate software developer from India, focused on creating innovative tech solutions.</h3>
 
-<h3 align="left">👩‍💻 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲:</h3>
+<h3 align="left">👨🏻‍💻 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲:</h3>
 
 <img align="right" width = "360" height="360" src="Assets/developer.gif"/>
 
@@ -34,10 +34,10 @@ Here are some ideas to get you started:
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
   <a href="mailto:prabhjotassi16@gmail.com">
-      <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic" height="32" alt="gmail logo" />
+      <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic" height="36" alt="gmail logo" />
   </a>
   <a href="https://www.linkedin.com/in/prabhjotsinghassi/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="32" alt="linkedin logo" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="36" alt="linkedin logo" />
   </a>
 </div>
 
@@ -155,5 +155,5 @@ Here are some ideas to get you started:
 
 ---
 <div align=center>
-Thank you for visiting! 😊 Feel free to connect.
+Thank you for visiting! 😊 Feel free to connect.🌐
 </div>

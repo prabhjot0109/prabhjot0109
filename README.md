@@ -127,10 +127,12 @@ Here are some ideas to get you started:
 <br clear="both">
 
 <div align="center">
+
   <img src="https://streak-stats.demolab.com?user=prabhjot0109&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=10&date_format=M%20j%5B,%20Y%5D&background=FFFFFF00" height="160" alt="streak graph" />
 
-  <img src="https://github-readme-stats.vercel.app/api?username=prabhjot0109&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&bg_color=00000000&rank_icon=github&border_radius=10&locale=en&hide_border=false" height="160" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prabhjot0109&locale=en&hide_title=false&layout=compact&langs_count=10&theme=radical&bg_color=00000000&hide_border=false&border_radius=10" height="160" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prabhjot0109&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=radical&bg_color=00000000&rank_icon=github&border_radius=10&locale=en&hide_border=false" height="160" alt="stats graph"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prabhjot0109&locale=en&size_weight=0.5&count_weight=0.5&layout=compact&langs_count=10&hide_title=false&count_private=true&show_icons=true&theme=radical&bg_color=00000000&hide_border=false&border_radius=10" height="160" alt="languages graph" />
 
  <!-- <img src="https://github-contributor-stats.vercel.app/api?username=prabhjot0109&limit=4&theme=transparent&combine_all_yearly_contributions=true&hide_title=false&layout=donut&langs_count=10&hide_border=false&border_radius=10" height="160"/> -->
 
@@ -138,9 +140,9 @@ Here are some ideas to get you started:
 
   <img src="https://github-profile-trophy.vercel.app?username=prabhjot0109&theme=radical&column=8&margin-w=10&no-bg=true&row=1" height="100" alt="trophy graph"  />
 
----
+<!-- --- -->
+  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=prabhjot0109&theme=monokai&area=true&radius=10&bg_color=FFFFFF00" height="300" alt="activity-graph graph"  /> -->
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prabhjot0109&theme=monokai&area=true&radius=10&bg_color=FFFFFF00" height="300" alt="activity-graph graph"  />
 </div>
 
 ---
@@ -154,6 +156,7 @@ Here are some ideas to get you started:
 </picture>
 
 ---
+
 <div align=center>
 Thank you for visiting! 😊 Feel free to connect.🌐
 </div>

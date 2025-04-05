@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="right">
+<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=prabhjot0109.prabhjot0109&left_text=Profile%20Views"  />
 </div>
 
@@ -23,13 +23,14 @@ Here are some ideas to get you started:
 
 <h3 align="center">A computer science & engineering student and passionate software developer from India, focused on creating innovative tech solutions.</h3>
 
+<h3 align="center">👨‍💻 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 by work, 🎨 𝘿𝙚𝙨𝙞𝙜𝙣𝙚𝙧 by heart.</h3>
+
 <h3 align="left">👨🏻‍💻 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲:</h3>
 
 <img align="right" width = "360" height="360" src="Assets/developer.gif"/>
 
 <p align="left">🔭 I’m currently working on Med.ai, an AI-powered healthcare system.<br><br>🌱 I’m currently learning Advanced Python, Machine Learning, and Flutter.<br><br>👯 I’m looking to collaborate on AI/ML and flutter projects.<br><br>🏆 Achievements: SIH'24 Winner and HackWave Hackathon Winner.<br><br>🤔 I’m looking for help with open-source contributions.<br><br>💬 Ask me about AI, Winning SIH and hackathons, or impactful projects.<br><br>📫 How to reach me: <a href="mailto:prabhjotassi16@gmail.com">prabhjotassi16@gmail.com</a><br><br>😄 Pronouns: He/Him<br><br>⚡ Fun fact: What did the spider do on the computer? Made a website!🕷️💻</p>
 
----
 <h2 align="center">🌐 Let's Connect</h2>
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
@@ -41,111 +42,68 @@ Here are some ideas to get you started:
   </a>
 </div>
 
----
+<h2 align="center">⚒️ Tech Stack ⚒️</h2>
 
-<h2 align="center">⚒️ Languages - Frameworks - Tools ⚒️</h2>
-
-<br clear="both">
-
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="50" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="50" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="50" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="50" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="50" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ai" height="50" alt="adobeillustrator logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ps" height="50" alt="adobephotoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="50" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="50" alt="django logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="50" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="50" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/flask/000000" height="50" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" height="50" alt="gradle logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=idea" height="50" alt="intellijidea logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="50" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="50" alt="markdown logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="50" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=xd" height="50" alt="xd logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="50" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="50" alt="raspberrypi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="50" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="50" alt="webstorm logo"  />
+<div align="center">
+<h3 align="center">Programming Languages</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,dart,html,css,js" />
 </div>
 
----
-<h2 align="center">⚡ Stats ⚡</h2>
+<h3 align="center">Frameworks & Libraries</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,django,tensorflow,pytorch,flask,nodejs" />
+</div>
 
-<br clear="both">
+<h3 align="center">Development Tools</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda,androidstudio,idea,pycharm,webstorm" />
+</div>
+
+<h3 align="center">Databases & Cloud</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase,aws" />
+</div>
+
+<h3 align="center">Design Tools</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ai,ps,figma,xd,blender,canva" />
+</div>
+
+<h3 align="center">IOT & Miscellaneous</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux" />
+</div>
+
+<h2 align="center">⚡ Github Stats ⚡</h2>
 
 <div align="center">
 
-  <img src="https://streak-stats.demolab.com?user=prabhjot0109&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=10&date_format=M%20j%5B,%20Y%5D&background=FFFFFF00" height="160" alt="streak graph" />
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prabhjot0109&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=10&bg_color=00000000">
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prabhjot0109&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=10&bg_color=00000000"">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prabhjot0109&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=10&bg_color=00000000"">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prabhjot0109&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=10&bg_color=00000000"">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prabhjot0109&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=10"">
+<img src="https://github-readme-stats.vercel.app/api?username=prabhjot0109&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=radical&rank_icon=github&border_radius=10&locale=en&hide_border=true" height="160" alt="stats graph"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=prabhjot0109&locale=en&size_weight=0.5&count_weight=0.5&layout=compact&langs_count=10&hide_title=false&count_private=true&show_icons=true&theme=radical&hide_border=true&border_radius=10" height="160" alt="languages graph" />
+<img height="169em" src="https://github-readme-streak-stats.herokuapp.com?user=prabhjot0109&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=10">
+</div>
+
+<h2 align="center">🏆 GitHub Trophies </h2>
+<img src="https://github-profile-trophy.vercel.app?username=prabhjot0109&theme=radical&column=8&margin-w=10&no-bg=false&row=1" height="100" alt="trophy graph"  />
+
+<h2 align="center">📈 Contribution Graph</h2>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prabhjot0109&theme=monokai&area=true&radius=10&bg_color=FFFFFF00" height="300" alt="activity-graph graph"  /> 
+
+
+  <!-- <img src="https://streak-stats.demolab.com?user=prabhjot0109&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=10&date_format=M%20j%5B,%20Y%5D&background=FFFFFF00" height="160" alt="streak graph" />
 
   <img src="https://github-readme-stats.vercel.app/api?username=prabhjot0109&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=radical&bg_color=00000000&rank_icon=github&border_radius=10&locale=en&hide_border=false" height="160" alt="stats graph"/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prabhjot0109&locale=en&size_weight=0.5&count_weight=0.5&layout=compact&langs_count=10&hide_title=false&count_private=true&show_icons=true&theme=radical&bg_color=00000000&hide_border=false&border_radius=10" height="160" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prabhjot0109&locale=en&size_weight=0.5&count_weight=0.5&layout=compact&langs_count=10&hide_title=false&count_private=true&show_icons=true&theme=radical&bg_color=00000000&hide_border=false&border_radius=10" height="160" alt="languages graph" /> -->
 
  <!-- <img src="https://github-contributor-stats.vercel.app/api?username=prabhjot0109&limit=4&theme=transparent&combine_all_yearly_contributions=true&hide_title=false&layout=donut&langs_count=10&hide_border=false&border_radius=10" height="160"/> -->
 
----
-
-  <img src="https://github-profile-trophy.vercel.app?username=prabhjot0109&theme=radical&column=8&margin-w=10&no-bg=true&row=1" height="100" alt="trophy graph"  />
-
-<!-- --- -->
-  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=prabhjot0109&theme=monokai&area=true&radius=10&bg_color=FFFFFF00" height="300" alt="activity-graph graph"  /> -->
-
-</div>
-
----
 
 <h2 align="center">🐍 My Contributions 🐍</h2>
 
@@ -155,8 +113,7 @@ Here are some ideas to get you started:
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
----
-
 <div align=center>
 Thank you for visiting! 😊 Feel free to connect.🌐
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 </div>

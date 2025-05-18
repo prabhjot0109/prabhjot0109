@@ -43,26 +43,8 @@ Here are some ideas to get you started:
 </div>
 
 <h1 align="center">⚒️ Tech Stack ⚒️</h1>
-
 <div align="center">
-<h3 align="center">Programming Languages</h3>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,dart,html,css,js" />
-</div>
-
-<h3 align="center">Frameworks & Libraries</h3>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,django,tensorflow,pytorch,flask,nodejs" />
-</div>
-
-<h3 align="center">Development Tools</h3>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda,androidstudio,idea,pycharm,webstorm,ai,ps,figma,xd,blender,canva" />
-</div>
-
-<h3 align="center">Databases & IOT</h3>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase,aws,arduino,raspberrypi,linux" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,react,dart,flutter,django,tensorflow,pytorch,flask,nodejs,git,anaconda,androidstudio,mysql,sqlite,firebase,aws,arduino,raspberrypi,linux"/>
 </div>
 
 <h1 align="center">⚡ Github Stats ⚡</h1>

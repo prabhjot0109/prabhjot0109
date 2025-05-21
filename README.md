@@ -44,10 +44,10 @@ Here are some ideas to get you started:
 
 <h1 align="center">⚒️ Tech Stack ⚒️</h1>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,react,dart,flutter,django,tensorflow,pytorch,flask,nodejs,git,anaconda,androidstudio,mysql,sqlite,firebase,aws,arduino,raspberrypi,linux"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,react,dart,flutter,django,mysql,sqlite,firebase,aws,tensorflow,pytorch,opencv,flask,nodejs,git,anaconda,androidstudio,figma,arduino,raspberrypi,linux"/>
 </div>
 
-<h1 align="center">⚡ Github Stats ⚡</h1>
+<h1 align="center">⚡ GitHub Stats ⚡</h1>
 
 <div align="center">
 
@@ -65,12 +65,6 @@ Here are some ideas to get you started:
 
 <img height="169em" src="https://github-readme-streak-stats.herokuapp.com?user=prabhjot0109&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=10">
 </div>
-
-<!-- <img src="https://streak-stats.demolab.com?user=prabhjot0109&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=10&date_format=M%20j%5B,%20Y%5D&background=FFFFFF00" height="160" alt="streak graph" />
-
-  <img src="https://github-readme-stats.vercel.app/api?username=prabhjot0109&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=radical&bg_color=00000000&rank_icon=github&border_radius=10&locale=en&hide_border=false" height="160" alt="stats graph"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prabhjot0109&locale=en&size_weight=0.5&count_weight=0.5&layout=compact&langs_count=10&hide_title=false&count_private=true&show_icons=true&theme=radical&bg_color=00000000&hide_border=false&border_radius=10" height="160" alt="languages graph" /> -->
 
 <h1 align="center">🏆 GitHub Trophies 🏆</h1>
 <img src="https://github-profile-trophy.vercel.app?username=prabhjot0109&theme=radical&column=8&margin-w=10&no-bg=false&row=1" height="100" alt="trophy graph"  />

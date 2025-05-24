@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 </div>
 
 <h1 align="left">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Carter+One&size=40&pause=1000&left=true&width=450&height=60&lines=Hi+There!+%F0%9F%91%8B;I'm+Prabhjot+Singh+Assi!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Carter+One&size=40&pause=1000&left=true&width=460&height=60&lines=Hi+There!+%F0%9F%91%8B;I'm+Prabhjot+Singh+Assi!" alt="Typing SVG" /></a>
 </h1>
 
 <h3 align="left">A computer science & engineering student and passionate software developer from India, focused on creating innovative tech solutions.</h3>
@@ -198,7 +198,7 @@ Here are some ideas to get you started:
 
 <div align="left">
 
-### 🧠 **Core Competencies**
+## 🧠 **Core Competencies**
 
 ```mermaid
 mindmap

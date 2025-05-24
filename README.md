@@ -17,7 +17,7 @@ Here are some ideas to get you started:
   <img src="https://visitor-badge.laobi.icu/badge?page_id=prabhjot0109.prabhjot0109&left_text=Profile%20Views"  />
 </div>
 
-<h1 align="center">
+<h1 align="left">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Carter+One&size=40&pause=1000&left=true&width=450&height=60&lines=Hi+There!+%F0%9F%91%8B;I'm+Prabhjot+Singh+Assi!" alt="Typing SVG" /></a>
 </h1>
 
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 <div align="left">
 
-### 🌐 Connect & Collaborate
+## 🌐 Connect & Collaborate
 
 </div>
 
@@ -224,7 +224,7 @@ mindmap
 
 ---
 
-### 🚀 Tech Stack
+## 🚀 Tech Stack
 
 <div style="margin: 20px 0;">
 <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,react,dart,flutter,django,mysql,sqlite,firebase,aws,tensorflow,pytorch,opencv,flask,nodejs,git,anaconda,vscode,androidstudio,figma,arduino,raspberrypi,windows,linux" alt="Tech Stack"/>
@@ -235,7 +235,7 @@ mindmap
 
 ---
 
-### 📜 **Professional Certifications**
+## 📜 **Professional Certifications**
 
 </div>
 <div align="left">
@@ -286,7 +286,7 @@ mindmap
 
 ---
 
-<h1 align="left">⚡ GitHub Stats</h1>
+## ⚡ GitHub Stats
 
 <div align="left">
 
@@ -307,17 +307,20 @@ mindmap
 
 ---
 
-<h1 align="left">🏆 GitHub Trophies</h1>
+## 🏆 GitHub Trophies
+
 <img src="https://github-profile-trophy.vercel.app?username=prabhjot0109&theme=radical&column=8&margin-w=10&no-bg=false&row=1" height="100" alt="trophy graph"  />
 
 ---
 
-<h1 align="left">📈 Contribution Graph</h1>
+## 📈 Contribution Graph
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=prabhjot0109&theme=monokai&area=true&radius=10&bg_color=FFFFFF00" height="300" alt="activity-graph graph"/>
 
 ---
 
-<h1 align="left">🐍 My Contributions</h1>
+## 🐍 My Contributions
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prabhjot0109/prabhjot0109/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prabhjot0109/prabhjot0109/output/github-snake.svg" />

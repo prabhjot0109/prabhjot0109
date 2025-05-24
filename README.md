@@ -17,7 +17,7 @@ Here are some ideas to get you started:
   <img src="https://visitor-badge.laobi.icu/badge?page_id=prabhjot0109.prabhjot0109&left_text=Profile%20Views"  />
 </div>
 
-<h1 align="left">
+<h1 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Carter+One&size=40&pause=1000&left=true&width=450&height=60&lines=Hi+There!+%F0%9F%91%8B;I'm+Prabhjot+Singh+Assi!" alt="Typing SVG" /></a>
 </h1>
 
@@ -68,37 +68,37 @@ Here are some ideas to get you started:
     <th>🏅 <strong>Achievement</strong></th>
     <th>🏛️ <strong>Organization</strong></th>
     <th>📅 <strong>Year</strong></th>
-    <th>💰 <strong>Value</strong></th>
+    <th>💻 <strong>Product</strong></th>
   </tr>
   <tr>
     <td>🥇 <strong>SIH 2024 Winner</strong></td>
     <td>MoE's IC & AICTE</td>
     <td>2024</td>
-    <td>₹1,00,000 Prize</td>
+    <td>AI App</td>
   </tr>
   <tr>
     <td>💰 <strong>IEEE Tech4Good Grant</strong></td>
     <td>IEEE HTB</td>
     <td>2024</td>
-    <td>$4,000 USD</td>
+    <td>AI App</td>
   </tr>
   <tr>
     <td>🏆 <strong>HackWave Winner</strong></td>
-    <td>Chameli Devi Group</td>
+    <td>CDGI, Indore</td>
     <td>2024</td>
-    <td>1st Place</td>
+    <td>Ml Model</td>
   </tr>
   <tr>
     <td>🥉 <strong>Prayatna 3rd Runner-up</strong></td>
-    <td>AITR Indore</td>
+    <td>AITR, Indore</td>
     <td>2024</td>
-    <td>Healthcare AI</td>
+    <td>AI Webapp</td>
   </tr>
   <tr>
     <td>🥈 <strong>Codespire Runner-up</strong></td>
-    <td>AITR Indore</td>
+    <td>AITR, Indore</td>
     <td>2023</td>
-    <td>Audio Analysis</td>
+    <td>Software</td>
   </tr>
 </table>
 
@@ -241,7 +241,7 @@ mindmap
 <div align="left">
   <img src="https://img.shields.io/badge/📖_Python_Programming-Infosys_Springboard-blue?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/🤖_Machine_Learning-Infosys_Springboard-orange?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/🖥️_Database Management System-NPTEL-red?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🖥️_Database Management Systems-NPTEL-red?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
 
 </div>

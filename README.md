@@ -106,95 +106,156 @@ Here are some ideas to get you started:
 
 ---
 
-<div align="left">
+<!-- <div align="left">
+
 
 ## 💼 Featured Projects Portfolio
 
+
 </div>
+
 
 ### 🔥 **Signify** - _AI Sign Language Translator_
 
+
 > 🏆 **SIH 2024 Winner** | **Problem Statement 1716**
 
+
 <div align="left">
+
   <img src="https://img.shields.io/badge/Flutter-Mobile_App-blue?style=flat-square&logo=flutter"/>
+
   <img src="https://img.shields.io/badge/Python-ML_Backend-yellow?style=flat-square&logo=python"/>
+
   <img src="https://img.shields.io/badge/MediaPipe-Computer_Vision-green?style=flat-square&logo=google"/>
+
   <img src="https://img.shields.io/badge/Impact-40_ISL_Gestures-red?style=flat-square"/>
+
 </div>
+
 
 **Revolutionary AI-driven Indian Sign Language translation system** that bridges communication gaps for the hearing-impaired community.
 
+
 - ✨ **Real-time gesture recognition** of 40+ ISL gestures
+
 - 🎯 **Multi-modal output:** Text and speech conversion
+
 - 📱 **Cross-platform** Flutter application
+
 - 🔬 **MediaPipe integration** for precise hand tracking
+
 - 🏆 **National recognition** as SIH 2024 winning solution
 
+
 ---
+
 
 ### 🏥 **Med.AI** - _Healthcare Intelligence System_
 
+
 > 🥉 **Prayatna Hackathon 3rd Runner-up**
 
+
 <div align="left">
+
   <img src="https://img.shields.io/badge/PyTorch-Deep_Learning-red?style=flat-square&logo=pytorch"/>
+
   <img src="https://img.shields.io/badge/Scikit--learn-ML_Pipeline-orange?style=flat-square&logo=scikit-learn"/>
+
   <img src="https://img.shields.io/badge/Computer_Vision-X--Ray_Analysis-purple?style=flat-square"/>
+
   <img src="https://img.shields.io/badge/Accuracy-+15%25_Improvement-green?style=flat-square"/>
+
 </div>
+
 
 **AI-powered medical diagnostic assistant** that enhances healthcare decision-making through advanced analytics.
 
+
 - 🔍 **Intelligent symptom analysis** with data-driven insights
+
 - 📊 **X-Ray image recognition** with 15% accuracy improvement
+
 - ⚕️ **Medical expert assistance** for diagnostic support
+
 - 🧠 **Deep learning models** for pattern recognition
+
 - 💡 **Scalable architecture** for clinical deployment
 
+
 ---
+
 
 ### 🌾 **Krishi** - _Smart Agriculture Platform_
 
+
 > 💰 **$4000 IEEE Tech4Good Grant Recipient**
 
+
 <div align="left">
+
   <img src="https://img.shields.io/badge/Flutter-Mobile_Platform-blue?style=flat-square&logo=flutter"/>
+
   <img src="https://img.shields.io/badge/Arduino-IoT_Sensors-teal?style=flat-square&logo=arduino"/>
+
   <img src="https://img.shields.io/badge/OpenWeather-API_Integration-skyblue?style=flat-square"/>
+
   <img src="https://img.shields.io/badge/Gemini_AI-Smart_Insights-yellow?style=flat-square&logo=google"/>
+
 </div>
+
 
 **IoT-enabled agricultural intelligence system** empowering farmers with data-driven crop management.
 
+
 - 📊 **Real-time soil analysis** with IoT sensor integration
+
 - 🌦️ **Weather-based recommendations** via OpenWeather API
+
 - 🤖 **AI-powered insights** using Gemini API
+
 - 📈 **20% crop yield improvement** in field trials
+
 - 👨‍🌾 **10+ farmers impacted** in Indore region
 
+
 ---
+
 
 ### 🚨 **Kavach** - _Emergency SOS System_
 
+
 > 🛡️ **Safety Innovation Project**
 
+
 <div align="left">
+
   <img src="https://img.shields.io/badge/Java-Android_Native-orange?style=flat-square&logo=java"/>
+
   <img src="https://img.shields.io/badge/XML-UI_Design-green?style=flat-square"/>
+
   <img src="https://img.shields.io/badge/Speech_Recognition-Voice_AI-purple?style=flat-square"/>
+
   <img src="https://img.shields.io/badge/Accuracy-80%25_Noisy_Env-red?style=flat-square"/>
+
 </div>
+
 
 **Intelligent emergency response application** with advanced speech recognition capabilities.
 
+
 - 🎤 **Voice-activated SOS** with predefined trigger words
+
 - 🔒 **Locked-screen functionality** for emergency access
+
 - 🌟 **80% accuracy** in noisy environments
+
 - 🚀 **Non-suspicious activation** for user safety
+
 - 📱 **Native Android** implementation
 
----
+--- -->
 
 <div align="left">
 
@@ -235,56 +296,85 @@ mindmap
 
 ---
 
-## 📜 **Professional Certifications**
+<!-- ## 📜 **Professional Certifications**
+
 
 </div>
+
 <div align="left">
+
   <img src="https://img.shields.io/badge/📖_Python_Programming-Infosys_Springboard-blue?style=for-the-badge&logo=python&logoColor=white"/>
+
   <img src="https://img.shields.io/badge/🤖_Machine_Learning-Infosys_Springboard-orange?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
   <img src="https://img.shields.io/badge/🖥️_Database Management Systems-NPTEL-red?style=for-the-badge&logo=mysql&logoColor=white"/>
-</div>
 
 </div>
+
 
 ---
 
 <div align="left">
+
 
 ## 💡 Innovation & Research
 
-</div>
-<div align="left">
-  <img src="https://img.shields.io/badge/Research-AI_in_Healthcare-brightgreen?style=for-the-badge&logo=microscope&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Publication-In_Progress-yellow?style=for-the-badge&logo=academia&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Patents-Exploring-blue?style=for-the-badge&logo=lightbulb&logoColor=white"/>
+
 </div>
 
 <div align="left">
+
+  <img src="https://img.shields.io/badge/Research-AI_in_Healthcare-brightgreen?style=for-the-badge&logo=microscope&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/Publication-In_Progress-yellow?style=for-the-badge&logo=academia&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/Patents-Exploring-blue?style=for-the-badge&logo=lightbulb&logoColor=white"/>
+
+</div>
+
+
+<div align="left">
+
 
 ---
+
 
 ## 💼 Professional Experience
 
+
 </div>
+
 
 ### 🏢 **Intern**
 
+
 **Edunet Foundation** | _November 2024 - December 2024_
 
+
 <div align="left">
+
   <img src="https://img.shields.io/badge/Project-AI_Transformative_Learning-blue?style=flat-square"/>
+
   <img src="https://img.shields.io/badge/Tech-CNN_MobileNetV2-red?style=flat-square"/>
+
   <img src="https://img.shields.io/badge/Platform-Streamlit_Cloud-green?style=flat-square"/>
+
 </div>
+
 
 **Key Achievements:**
 
+
 - 🚀 **Deployed production-ready ML model** for image classification using CNN architecture
+
 - 📊 **Utilized MobileNetV2** pre-trained on ImageNet for transfer learning
+
 - ☁️ **Cloud deployment** on Streamlit platform with real-time inference
+
 - 📈 **Improved model efficiency** through optimization techniques
 
----
+
+--- -->
 
 ## ⚡ GitHub Stats
 
@@ -328,8 +418,9 @@ mindmap
 </picture>
 
 <br>
+
 <div align="center">
   Thank you for visiting! 😊 Feel free to connect.🌐<br>
-    <sub>⭐ Star this repository if you found it interesting! ⭐</sub>
+  <sub>⭐ Star this repository if you found it interesting! ⭐</sub>
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 </div>

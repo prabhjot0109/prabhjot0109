@@ -10,7 +10,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Carter+One&size=40&pause=1000&left=true&width=460&height=60&lines=Hi+There!+%F0%9F%91%8B;I'm+Prabhjot+Singh+Assi!" alt="Typing SVG" /></a>
 </h1>
 
-<h3 align="left">Computer Science & Engineering student and passionate software developer, focused on creating innovative tech solutions.</h3>
+<h2 align="center">Computer Science & Engineering student and passionate software developer, focused on creating innovative tech solutions.</h2>
 
 <h3 align="center">👨‍💻 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 by work, 🎨 𝘿𝙚𝙨𝙞𝙜𝙣𝙚𝙧 by heart.</h3>
 
@@ -34,9 +34,6 @@
   </a>
   <a href="https://www.linkedin.com/in/prabhjotsinghassi/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/prabhjot0109" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <!-- <a href="https://leetcode.com/u/prabhjot0109" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
@@ -70,6 +67,7 @@
     'cScale4': '#ec4899'
   }
 }}%%
+
 mindmap
   root((💻 Tech Skills))
     🤖 AI/ML Engineering

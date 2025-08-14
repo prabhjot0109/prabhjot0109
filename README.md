@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Carter+One&size=40&pause=1000&left=true&width=460&height=60&lines=Hi+There!+%F0%9F%91%8B;I'm+Prabhjot+Singh+Assi!" alt="Typing SVG" /></a>
 </h1>
 
-<h3 align="left">A computer science & engineering student and passionate software developer from India, focused on creating innovative tech solutions.</h3>
+<h3 align="left">A computer science & engineering student and passionate software developer, focused on creating innovative tech solutions.</h3>
 
 <h3 align="center">👨‍💻 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 by work, 🎨 𝘿𝙚𝙨𝙞𝙜𝙣𝙚𝙧 by heart.</h3>
 
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 <img align="right" width = "360" height="360" src="Assets/developer.gif"/>
 
-<p align="left">🔭 I’m currently working on Med.ai, an AI-powered healthcare webapp.<br><br>🌱 I’m currently learning Web Development.<br><br>👯 I’m looking to collaborate on AI/ML and flutter projects.<br><br>🏆 Achievements: SIH'24 Winner and HackWave Hackathon Winner.<br><br>🤔 I’m looking for help with open-source contributions.<br><br>💬 Ask me about AI, Winning SIH and hackathons, or impactful projects.<br><br>📫 How to reach me: <a href="mailto:prabhjotassi16@gmail.com">prabhjotassi16@gmail.com</a><br><br>😄 Pronouns: He/Him<br><br>⚡ Fun fact: What did the spider do on the computer? Made a website!🕷️💻</p>
+<p align="left">🔭 I’m currently working on Med.ai, an AI-powered healthcare webapp.<br><br>🌱 I’m currently learning Web Development.<br><br>👯 I’m looking to collaborate on AI/ML and flutter projects.<br><br>🏆 Achievements: SIH'24 Winner and 5x Hackathon Winner.<br><br>🤔 I’m looking for help with open-source contributions.<br><br>💬 Ask me about AI, Winning SIH and hackathons, or impactful projects.<br><br>📫 How to reach me: <a href="mailto:prabhjotassi16@gmail.com">prabhjotassi16@gmail.com</a><br><br>😄 Pronouns: He/Him<br><br>⚡ Fun fact: What did the spider do on the computer? Made a website!🕷️💻</p>
 
 ---
 
@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 
 ---
 
-<div align="left">
+<!-- <div align="left">
 
 ## 🏆 Major Achievements & Recognition
 
@@ -69,6 +69,12 @@ Here are some ideas to get you started:
     <th>🏛️ <strong>Organization</strong></th>
     <th>📅 <strong>Year</strong></th>
     <th>💻 <strong>Product</strong></th>
+  </tr>
+  <tr>
+    <td>🥇 <strong>Code for Bharat 2 - 1st Runner-up</strong></td>
+    <td>Tech Masters India</td>
+    <td>2025</td>
+    <td>AI App</td>
   </tr>
   <tr>
     <td>🥇 <strong>SIH 2024 Winner</strong></td>
@@ -104,7 +110,7 @@ Here are some ideas to get you started:
 
 </div>
 
----
+--- -->
 
 <!-- <div align="left">
 

@@ -50,7 +50,26 @@
 ## 🧠 **Core Competencies**
 
 ```mermaid
-%%{init: {'theme':'base', 'themeVariables': {'primaryColor':'#ff6b6b', 'primaryTextColor':'#ffffff', 'primaryBorderColor':'#ff6b6b', 'lineColor':'#4ecdc4', 'background':'#0d1117', 'mainBkg':'#21262d', 'secondBkg':'#30363d'}}}%%
+%%{init: {
+  'theme': 'base',
+  'themeVariables': {
+    'primaryColor': '#ffffffff',
+    'primaryTextColor': '#000000ff',
+    'primaryBorderColor': '#1d4ed8',
+    'lineColor': '#64748b',
+    'secondaryColor': '#0ea5e9',
+    'tertiaryColor': '#06b6d4',
+    'background': '#0f172a',
+    'mainBkg': '#1e293b',
+    'secondBkg': '#334155',
+    'tertiaryBkg': '#475569',
+    'cScale0': '#2563eb',
+    'cScale1': '#0ea5e9',
+    'cScale2': '#06b6d4',
+    'cScale3': '#8b5cf6',
+    'cScale4': '#ec4899'
+  }
+}}%%
 mindmap
   root((💻 Tech Skills))
     🤖 AI/ML Engineering

@@ -18,7 +18,7 @@
 
 <img align="right" width = "360" height="360" src="Assets/developer.gif"/>
 
-<p align="left">🔭 I’m currently working on Med.ai, an AI-powered healthcare webapp.<br><br>🌱 I’m currently learning Web Development.<br><br>👯 I’m looking to collaborate on AI/ML and flutter projects.<br><br>🏆 Achievements: SIH'24 Winner and 5x Hackathon Winner.<br><br>🤔 I’m looking for help with open-source contributions.<br><br>💬 Ask me about AI, Winning SIH and hackathons, or impactful projects.<br><br>📫 How to reach me: <a href="mailto:prabhjotassi16@gmail.com">prabhjotassi16@gmail.com</a><br><br>😄 Pronouns: He/Him<br><br>⚡ Fun fact: What did the spider do on the computer? Made a website!🕷️💻</p>
+<p align="left">🔭 I'm currently working on Med.ai, an AI-powered healthcare webapp.<br><br>🌱 I'm currently learning Web Development.<br><br>👯 I'm looking to collaborate on AI/ML and flutter projects.<br><br>🏆 Achievements: SIH'24 Winner and 5x Hackathon Winner.<br><br>🤔 I'm looking for help with open-source contributions.<br><br>💬 Ask me about AI, Winning SIH and hackathons, or impactful projects.<br><br>📫 How to reach me: <a href="mailto:prabhjotassi16@gmail.com">prabhjotassi16@gmail.com</a><br><br>😄 Pronouns: He/Him<br><br>⚡ Fun fact: What did the spider do on the computer? Made a website!🕷️💻</p>
 
 ---
 
@@ -50,6 +50,7 @@
 ## 🧠 **Core Competencies**
 
 ```mermaid
+%%{init: {'theme':'base', 'themeVariables': {'primaryColor':'#ff6b6b', 'primaryTextColor':'#ffffff', 'primaryBorderColor':'#ff6b6b', 'lineColor':'#4ecdc4', 'background':'#0d1117', 'mainBkg':'#21262d', 'secondBkg':'#30363d'}}}%%
 mindmap
   root((💻 Tech Skills))
     🤖 AI/ML Engineering
@@ -88,7 +89,7 @@ mindmap
 
 <div align="left">
 
-<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prabhjot0109&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=10&bg_color=00000000">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prabhjot0109&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=10&bg_color=00000000">
 
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prabhjot0109&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=10">
 
@@ -100,7 +101,7 @@ mindmap
 
 <img src="https://github-readme-stats.vercel.app/api?username=prabhjot0109&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=radical&rank_icon=github&border_radius=10&locale=en&hide_border=true" height="160" alt="stats graph"/>
 
-<img height="169em" src="https://github-readme-streak-stats.herokuapp.com?user=prabhjot0109&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=10">
+<img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=prabhjot0109&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=10">
 </div>
 
 ---

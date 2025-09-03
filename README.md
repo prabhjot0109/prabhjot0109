@@ -10,7 +10,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Carter+One&size=40&pause=1000&left=true&width=460&height=60&lines=Hi+There!+%F0%9F%91%8B;I'm+Prabhjot+Singh+Assi!" alt="Typing SVG" /></a>
 </h1>
 
-<h3 align="center">Computer Science & Engineering student and passionate software developer, focused on creating innovative tech solutions.</h3>
+<h3 align="center">Computer Science & Engineering student focused on building innovative tech solutions.</h3>
 
 <h3 align="center">🎨 𝘿𝙚𝙨𝙞𝙜𝙣𝙚𝙧 by heart 👨‍💻 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 by work</h3>
 
@@ -18,7 +18,7 @@
 
 <img align="right" width = "360" height="360" src="Assets/developer.gif"/>
 
-<p align="left">🔭 I'm currently working on Vrinda, an AI-powered app for enhanced crop production.<br><br>🌱 I'm currently learning Web Development.<br><br>👯 I'm looking to collaborate on AI/ML and flutter projects.<br><br>🏆 Achievements: SIH'24 Winner and 6x Hackathon Winner.<br><br>🤔 I'm looking for help with open-source contributions.<br><br>💬 Ask me about AI, Winning SIH and hackathons, or impactful projects.<br><br>📫 How to reach me: <a href="mailto:prabhjotassi16@gmail.com">prabhjotassi16@gmail.com</a><br><br>😄 Pronouns: He/Him<br><br>⚡ Fun fact: What did the spider do on the computer? Made a website!🕷️💻</p>
+<p align="left">🔭 I'm currently working on Vrinda, an AI-powered app for enhanced crop production.<br><br>🌱 I'm currently learning Deep Learning.<br><br>👯 I'm looking to collaborate on AI/ML and flutter projects.<br><br>🏆 Achievements: SIH'24 Winner and 6x Hackathon Winner.<br><br>🤔 I'm looking for help with open-source contributions.<br><br>💬 Ask me about AI, Winning SIH and hackathons, or impactful projects.<br><br>📫 How to reach me: <a href="mailto:prabhjotassi16@gmail.com">prabhjotassi16@gmail.com</a><br><br>😄 Pronouns: He/Him<br><br>⚡ Fun fact: What did the spider do on the computer? Made a website!🕷️💻</p>
 
 ---
 

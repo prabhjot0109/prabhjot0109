@@ -12,7 +12,7 @@
 
 <h3 align="center">Computer Science & Engineering student and passionate software developer, focused on creating innovative tech solutions.</h3>
 
-<h3 align="center">👨‍💻 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 by work, 🎨 𝘿𝙚𝙨𝙞𝙜𝙣𝙚𝙧 by heart.</h3>
+<h3 align="center">🎨 𝘿𝙚𝙨𝙞𝙜𝙣𝙚𝙧 by heart 👨‍💻 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 by work</h3>
 
 <h3 align="left">👨🏻‍💻 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲:</h3>
 

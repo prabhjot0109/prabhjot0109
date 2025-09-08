@@ -53,18 +53,18 @@
     'primaryColor': '#ffffffff',
     'primaryTextColor': '#000000ff',
     'primaryBorderColor': '#1d4ed8',
-    'lineColor': '#64748b',
-    'secondaryColor': '#0ea5e9',
+    'lineColor': '#597fb4ff',
+    'secondaryColor': '#0e12e9ff',
     'tertiaryColor': '#06b6d4',
-    'background': '#0f172a',
+    'background': '#596d9cff',
     'mainBkg': '#1e293b',
-    'secondBkg': '#334155',
-    'tertiaryBkg': '#475569',
+    'secondBkg': '#4f71a1ff',
+    'tertiaryBkg': '#42597aff',
     'cScale0': '#2563eb',
-    'cScale1': '#0ea5e9',
-    'cScale2': '#06b6d4',
-    'cScale3': '#8b5cf6',
-    'cScale4': '#ec4899'
+    'cScale1': '#44b9efff',
+    'cScale2': '#06d470ff',
+    'cScale3': '#eaf647ff',
+    'cScale4': '#f552a3ff'
   }
 }}%%
 
@@ -94,7 +94,7 @@ mindmap
 ## 🚀 Tech Stack
 
 <div style="margin: 20px 0;">
-<img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,react,dart,flutter,django,mysql,sqlite,firebase,aws,tensorflow,pytorch,opencv,flask,nodejs,git,anaconda,vscode,androidstudio,figma,arduino,raspberrypi,windows,linux" alt="Tech Stack"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,ts,nodejs,dart,flutter,mysql,sqlite,firebase,supabase,sklearn,tensorflow,pytorch,opencv,django,flask,git,github,anaconda,notion,vscode,androidstudio,figma,arduino,raspberrypi,windows,linux" alt="Tech Stack"/>
 </div>
 </div>
 

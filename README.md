@@ -7,7 +7,7 @@
 </div>
 
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Carter+One&size=40&pause=1000&left=true&width=460&height=60&lines=Hi+There!+%F0%9F%91%8B;I'm+Prabhjot!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Carter+One&size=40&pause=1000&left=true&width=460&height=60&lines=Hi+There!+%F0%9F%91%8B;I'm+Prabhjot Singh!" alt="Typing SVG" /></a>
 </h1>
 
 <h3 align="center">Computer Science & Engineering student focused on building innovative tech solutions.</h3>
@@ -133,7 +133,7 @@ mindmap
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=prabhjot0109&theme=monokai&area=true&radius=10&bg_color=FFFFFF00" height="300" alt="activity-graph graph"/>
 
---- -->
+---  -->
 
 ## 🐍 My Contributions
 

@@ -7,7 +7,7 @@
 </div>
 
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Carter+One&size=40&pause=1000&left=true&width=460&height=60&lines=Hi+There!+%F0%9F%91%8B;I'm+Prabhjot+Singh+Assi!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Carter+One&size=40&pause=1000&left=true&width=460&height=60&lines=Hi+There!+%F0%9F%91%8B;I'm+Prabhjot!" alt="Typing SVG" /></a>
 </h1>
 
 <h3 align="center">Computer Science & Engineering student focused on building innovative tech solutions.</h3>
@@ -63,7 +63,7 @@
     'cScale0': '#2563eb',
     'cScale1': '#44b9efff',
     'cScale2': '#06d470ff',
-    'cScale3': '#eaf647ff',
+    'cScale3': '#e8f260ff',
     'cScale4': '#f552a3ff'
   }
 }}%%

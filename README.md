@@ -94,7 +94,7 @@ mindmap
 ## 🚀 Tech Stack
 
 <div style="margin: 20px 0;">
-<img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,ts,nodejs,dart,flutter,mysql,sqlite,firebase,supabase,sklearn,tensorflow,pytorch,opencv,django,flask,git,github,anaconda,notion,vscode,androidstudio,figma,arduino,raspberrypi,windows,linux" alt="Tech Stack"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,mysql,postgresql,sqlite,firebase,supabase,tensorflow,pytorch,sklearn,opencv,django,flask,git,github,anaconda,vscode,androidstudio,figma,arduino,raspberrypi,windows,linux"alt="Tech Stack"/>
 </div>
 </div>
 

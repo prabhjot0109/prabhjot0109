@@ -15,7 +15,6 @@
 <h3 align="center">🎨 𝘿𝙚𝙨𝙞𝙜𝙣𝙚𝙧 by heart 👨‍💻 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 by work</h3>
 
 <h3 align="left">👨🏻‍💻 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲</h3>
-<h4 align="center" style="margin:-16px 0 20px">🏆 National Level Hackathon Winner | AI Enthusiast | Tech Innovator</h4>
 
 <img align="right" width = "360" height="360" src="Assets/developer.gif"/>
 

@@ -14,19 +14,7 @@
 
 <h3 align="center">🎨 𝘿𝙚𝙨𝙞𝙜𝙣𝙚𝙧 by heart 👨‍💻 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 by work</h3>
 
-<h3 align="left">👨🏻‍💻 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲</h3>
-
-<img align="right" width = "360" height="360" src="Assets/developer.gif"/>
-
-<p align="left">🔭 I'm currently working on Vrinda, an AI-powered app for enhanced crop production.<br><br>🌱 I'm currently learning Deep Learning.<br><br>👯 I'm looking to collaborate on AI/ML and flutter projects.<br><br>🏆 Achievements: SIH'24 Winner and 6x Hackathon Winner.<br><br>🤔 I'm looking for help with open-source contributions.<br><br>💬 Ask me about AI, Winning SIH and hackathons, or impactful projects.<br><br>📫 How to reach me: <a href="mailto:prabhjotassi16@gmail.com">prabhjotassi16@gmail.com</a><br><br>😄 Pronouns: He/Him<br><br>⚡ Fun fact: What did the spider do on the computer? Made a website!🕷️💻</p>
-
----
-
-<div align="left">
-
-## 🌐 Connect & Collaborate
-
-</div>
+<br>
 
 <div align="center">
   <a href="mailto:prabhjotassi16@gmail.com">
@@ -39,6 +27,14 @@
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a> -->
 </div>
+
+---
+
+<h3 align="left">👨🏻‍💻 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲</h3>
+
+<img align="right" width = "360" height="360" src="Assets/developer.gif"/>
+
+<p align="left">🔭 I'm currently working on Vrinda, an AI-powered app for enhanced crop production.<br><br>🌱 I'm currently learning Deep Learning.<br><br>👯 I'm looking to collaborate on AI/ML and flutter projects.<br><br>🏆 Achievements: SIH'24 Winner and 6x Hackathon Winner.<br><br>🤔 I'm looking for help with open-source contributions.<br><br>💬 Ask me about AI, Winning SIH and hackathons, or impactful projects.<br><br>📫 How to reach me: <a href="mailto:prabhjotassi16@gmail.com">prabhjotassi16@gmail.com</a><br><br>😄 Pronouns: He/Him<br><br>⚡ Fun fact: What did the spider do on the computer? Made a website!🕷️💻</p>
 
 ---
 

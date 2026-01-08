@@ -3,7 +3,7 @@
 -->
 
 <div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=prabhjot0109.prabhjot0109&left_text=Profile%20Views"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=prabhjot0109.prabhjot0109&left_text=Profile%20Views"/>
 </div>
 
 <h1 align="center">
@@ -34,7 +34,7 @@
 
 <img align="right" width = "360" height="360" src="Assets/developer.gif"/>
 
-<p align="left">🔭 I'm currently working on Vrinda, an AI-powered app for enhanced crop production.<br><br>🌱 I'm currently learning Deep Learning.<br><br>👯 I'm looking to collaborate on AI/ML and flutter projects.<br><br>🏆 Achievements: SIH'24 Winner and 6x Hackathon Winner.<br><br>🤔 I'm looking for help with open-source contributions.<br><br>💬 Ask me about AI, Winning SIH and hackathons, or impactful projects.<br><br>📫 How to reach me: <a href="mailto:prabhjotassi16@gmail.com">prabhjotassi16@gmail.com</a><br><br>😄 Pronouns: He/Him<br><br>⚡ Fun fact: What did the spider do on the computer? Made a website!🕷️💻</p>
+<p align="left">🔭 I'm currently working on Vrinda, an AI-powered app for enhanced crop production.<br><br>🌱 I'm currently learning Deep Learning and Web Development.<br><br>👯 I'm looking to collaborate on AI/ML and flutter projects.<br><br>🏆 Achievements: SIH'24 Winner and 6x Hackathon Winner.<br><br>🤔 I'm looking for help with open-source contributions.<br><br>💬 Ask me about AI, Winning SIH and hackathons, or impactful projects.<br><br>📫 How to reach me: <a href="mailto:prabhjotassi16@gmail.com">prabhjotassi16@gmail.com</a><br><br>😄 Pronouns: He/Him<br><br>⚡ Fun fact: What did the spider do on the computer? Made a website!🕷️💻</p>
 
 ---
 
@@ -80,6 +80,11 @@ mindmap
     ⚙️ Backend Development
       🐍 Python Flask
       🔌 API Development
+    🌐 Web Development
+      ⚛️ React with Tailwind
+      🎨 Frontend
+      🔐 Auth Security
+      🔌 RESTful API
     🔧 IoT & Hardware
       🤖 Arduino
       📡 Sensor Integration
@@ -90,7 +95,7 @@ mindmap
 ## 🚀 Tech Stack
 
 <div style="margin: 20px 0;">
-<img src="https://skillicons.dev/icons?i=python,cpp,mysql,postgresql,sqlite,firebase,supabase,tensorflow,pytorch,sklearn,opencv,django,flask,git,github,anaconda,vscode,androidstudio,figma,arduino,raspberrypi,windows,linux"alt="Tech Stack"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,ts,react,tailwind,mysql,postgresql,sqlite,firebase,supabase,tensorflow,pytorch,sklearn,opencv,django,flask,git,github,vscode,androidstudio,figma,arduino,raspberrypi,windows,linux"alt="Tech Stack"/>
 </div>
 </div>
 
@@ -106,24 +111,25 @@ mindmap
 
 <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prabhjot0109&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=10">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=prabhjot0109&locale=en&size_weight=0.5&count_weight=0.5&layout=compact&langs_count=6&hide_title=false&count_private=true&show_icons=true&theme=radical&hide_border=true&border_radius=10" height="160" alt="languages graph" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prabhjot0109&locale=en&size_weight=0.5&count_weight=0.5&layout=compact&langs_count=6&hide_title=false&count_private=true&show_icons=true&theme=radical&hide_border=true&border_radius=10" height="160" alt="languages graph" /> -->
 
 <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prabhjot0109&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=10&bg_color=00000000">
 
 <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prabhjot0109&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=10&bg_color=00000000">
 
-<img src="https://github-readme-stats.vercel.app/api?username=prabhjot0109&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=radical&rank_icon=github&border_radius=10&locale=en&hide_border=true" height="160" alt="stats graph"/>
+<a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=radical&fontFamily=inter&preferLogin=false">   
+<img height="160" alt="prabhjot0109's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/prabhjot0109?cardType=level&theme=radical&hide_border=true&border_radius=10&fontFamily=inter&preferLogin=false" />  </a>
 
 <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=prabhjot0109&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=10">
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+<!-- ## 🏆 GitHub Trophies
 
 <img src="https://github-profile-trophy.vercel.app?username=prabhjot0109&theme=radical&column=8&margin-w=10&no-bg=false&row=1" height="100" alt="trophy graph">
 
----
+--- -->
 
 <!-- ## 📈 Contribution Graph
 

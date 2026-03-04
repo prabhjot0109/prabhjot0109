@@ -1,7 +1,3 @@
-<!--
-**prabhjot0109/prabhjot0109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=prabhjot0109&label=Profile%20Views&color=blue&style=for-the-badge&base=6000&abbreviated=true" alt="Profile Views" />
 </div>
@@ -98,8 +94,8 @@ mindmap
 
 ## 🚀 Tech Stack
 
-<div style="margin: 20px 0;">
-<img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,ts,react,tailwind,mysql,postgresql,sqlite,firebase,supabase,tensorflow,pytorch,sklearn,opencv,django,flask,git,github,vscode,androidstudio,figma,arduino,raspberrypi,windows,linux"alt="Tech Stack"/>
+<div>
+<img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,ts,react,tailwind,mysql,postgresql,sqlite,firebase,supabase,pytorch,sklearn,opencv,django,flask,git,github,vscode,androidstudio,figma,arduino,raspberrypi,linux"alt="Tech Stack"/>
 </div>
 
 ---
@@ -119,27 +115,11 @@ mindmap
 <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prabhjot0109&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=10&bg_color=00000000">
 
 <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=radical&fontFamily=inter&preferLogin=false">   
-<img height="160" alt="prabhjot0109's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/prabhjot0109?cardType=level&theme=radical&hide_border=true&border_radius=10&fontFamily=inter&preferLogin=false" />  </a>
+<img height="160" alt="prabhjot0109's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/prabhjot0109?cardType=level&theme=radical&border=false&&fontFamily=inter&preferLogin=false" />  </a>
 
 <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=prabhjot0109&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=10">
 
 </div>
-
-<!-- ---
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app?username=prabhjot0109&theme=radical&column=8&margin-w=10&no-bg=false&row=1" height="100" alt="trophy graph">
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prabhjot0109&theme=monokai&area=true&radius=10&bg_color=FFFFFF00" height="300" alt="activity-graph graph"/>
-</div> -->
 
 --- 
 
@@ -155,6 +135,4 @@ mindmap
 
 <div align="center">
   Thank you for visiting! 😊 Feel free to connect.🌐<br>
-  <sub>⭐ Follow me on GitHub if you found it interesting! ⭐</sub>
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 </div>

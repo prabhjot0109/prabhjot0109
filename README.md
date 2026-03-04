@@ -3,13 +3,11 @@
 </div>
 <br>
 
-<h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Carter+One&size=40&pause=1000&left=true&width=460&height=60&lines=Hi+There!+%F0%9F%91%8B;I'm+Prabhjot+Singh!" alt="Typing SVG" /></a>
-</h1>
+<h1 align="center">Hi There! 👋 I'm Prabhjot Singh</h1>
 
-<h3 align="center">Computer Science & Engineering student focused on building innovative tech solutions.</h3>
+<h3 align="center">Computer Science & Engineering student and aspiring Software Engineer focused on building innovative tech solutions.</h3>
 
-<h3 align="center">🎨 𝘿𝙚𝙨𝙞𝙜𝙣𝙚𝙧 by heart 👨‍💻 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 by work</h3>
+<h3 align="center">🎨 Designer by heart 👨‍💻 Developer by work</h3>
 
 <br>
 
@@ -30,11 +28,29 @@
 
 ---
 
-<h3 align="left">👨🏻‍💻 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲</h3>
+<img align="right" src="Assets/developer.gif" width="300" alt="Developer GIF">
 
-<img align="right" width = "360" height="360" src="Assets/developer.gif"/>
+## 💻 About Me
 
-<p align="left">🔭 I'm currently working on Vrinda, an AI-powered app for enhanced crop production.<br><br>🌱 I'm currently learning Deep Learning and Web Development.<br><br>👯 I'm looking to collaborate on AI/ML and flutter projects.<br><br>🏆 Achievements: SIH'24 Winner and 6x Hackathon Winner.<br><br>🤔 I'm looking for help with open-source contributions.<br><br>💬 Ask me about AI, Winning SIH and hackathons, or impactful projects.<br><br>📫 How to reach me: <a href="mailto:prabhjotassi16@gmail.com">prabhjotassi16@gmail.com</a><br><br>😄 Pronouns: He/Him<br><br>⚡ Fun fact: What did the spider do on the computer? Made a website!🕷️💻</p>
+I'm a **Computer Science & Engineering** student with a passion for building things that sit at the intersection of design and technology.
+
+- 🧠 Deeply interested in **AI/ML** — from training models to deploying real-world intelligent systems
+- 📱 Love crafting smooth, intuitive **mobile experiences** with React-Native and Flutter.
+- 🌐 Built full-stack **web apps** with a focus on clean UI and solid architecture
+- 🎨 Design-first mindset — I care as much about how things look as how they work
+- 🛠️ Explorer at heart — always tinkering with new tools, frameworks, and ideas
+- 🚀 Currently seeking **Internships and Job** opportunities to work on impactful projects
+
+---
+
+## 📌 Projects
+
+- [Signify](https://github.com/prabhjot0109/signify_sih): A Flutter app for bidirectional, real-time sign language translation that helps bridge communication between hearing and hard-of-hearing users.
+- [Sentient](https://github.com/prabhjot0109/sentient): A RAG-based AI NPC system that uses uploaded manuals and documents to generate lore-aware, context-rich in-game dialogue.
+- [Recall](https://github.com/prabhjot0109/Recall) ([Live](https://recallbookmark.vercel.app/)): An AI-powered bookmark manager with Google OAuth, real-time sync, and secure private storage.
+- [TabFlow](https://github.com/prabhjot0109/TabFlow): A Chrome extension for fast keyboard-first tab switching with search and visual tab previews.
+- [Vrinda](https://github.com/prabhjot0109/vrinda): A Flutter app that delivers AI-powered pest detection and soil-health insights to improve crop productivity.
+- [Portfolio](https://github.com/prabhjot0109/portfolio) ([Live](https://prabhjot0109.vercel.app/)): A minimalist, high-performance personal website showcasing projects, skills, and work.
 
 ---
 
@@ -94,9 +110,7 @@ mindmap
 
 ## 🚀 Tech Stack
 
-<div>
-<img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,ts,react,tailwind,mysql,postgresql,sqlite,firebase,supabase,pytorch,sklearn,opencv,django,flask,git,github,vscode,androidstudio,figma,arduino,raspberrypi,linux"alt="Tech Stack"/>
-</div>
+<img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,ts,react,tailwind,mysql,postgresql,sqlite,firebase,supabase,git,github,pytorch,sklearn,opencv,django,flask,vscode,androidstudio,figma,arduino,raspberrypi,linux" alt="Tech Stack"/>
 
 ---
 
@@ -104,34 +118,17 @@ mindmap
 
 <div align="center">
 
-<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prabhjot0109&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=10&bg_color=00000000">
-
-<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prabhjot0109&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=10">
-
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prabhjot0109&locale=en&size_weight=0.5&count_weight=0.5&layout=compact&langs_count=6&hide_title=false&count_private=true&show_icons=true&theme=radical&hide_border=true&border_radius=10" height="160" alt="languages graph" /> -->
-
-<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prabhjot0109&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=10&bg_color=00000000">
-
-<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prabhjot0109&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=10&bg_color=00000000">
-
-<a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=radical&fontFamily=inter&preferLogin=false">   
-<img height="160" alt="prabhjot0109's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/prabhjot0109?cardType=level&theme=radical&border=false&&fontFamily=inter&preferLogin=false" />  </a>
-
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=prabhjot0109&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=10">
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prabhjot0109&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=10&bg_color=00000000" alt="Profile Details">
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prabhjot0109&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=10" alt="Productive Time">
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prabhjot0109&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=10&bg_color=00000000" alt="Repos per Language">
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prabhjot0109&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=10&bg_color=00000000" alt="Most Commit Language">
+<a href="https://awesome-github-stats.azurewebsites.net/index.html?cardType=level&theme=radical&fontFamily=inter&preferLogin=false">
+<img height="160" alt="prabhjot0109's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/prabhjot0109?cardType=level&theme=radical&border=false&&fontFamily=inter&preferLogin=false"/></a>
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=prabhjot0109&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=10" alt="GitHub Streak">
 
 </div>
 
---- 
-
-## 🐍 My Contributions
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prabhjot0109/prabhjot0109/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prabhjot0109/prabhjot0109/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/prabhjot0109/prabhjot0109/output/github-snake.svg" />
-</picture>
-
-<br>
+---
 
 <div align="center">
   Thank you for visiting! 😊 Feel free to connect.🌐<br>

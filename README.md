@@ -1,15 +1,12 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=prabhjot0109&label=Profile%20Views&color=blue&style=for-the-badge&base=6000&abbreviated=true" alt="Profile Views" />
 </div>
-<br>
 
-<h1 align="center">Hi There! 👋 I'm Prabhjot Singh</h1>
+<h1 align="center">Hi There! 👋 <br> I'm Prabhjot Singh</h1>
 
 <h3 align="center">Computer Science & Engineering student and aspiring Software Engineer focused on building innovative tech solutions.</h3>
 
 <h3 align="center">🎨 Designer by heart 👨‍💻 Developer by work</h3>
-
-<br>
 
 <div align="center">
   <a href="mailto:prabhjotassi16@gmail.com">
@@ -30,7 +27,7 @@
 
 <img align="right" src="Assets/developer.gif" width="300" alt="Developer GIF">
 
-## 💻 About Me
+### 💻 About Me
 
 I'm a **Computer Science & Engineering** student with a passion for building things that sit at the intersection of design and technology.
 
@@ -40,8 +37,6 @@ I'm a **Computer Science & Engineering** student with a passion for building thi
 - 🎨 Design-first mindset — I care as much about how things look as how they work
 - 🛠️ Explorer at heart — always tinkering with new tools, frameworks, and ideas
 - 🚀 Currently seeking **Internships and Job** opportunities to work on impactful projects
-
----
 
 ## 📌 Projects
 

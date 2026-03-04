@@ -2,9 +2,10 @@
 **prabhjot0109/prabhjot0109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=prabhjot0109.prabhjot0109&left_text=Profile%20Views"/>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=prabhjot0109&label=Profile%20Views&color=blue&style=for-the-badge&base=6000&abbreviated=true" alt="Profile Views" />
 </div>
+<br>
 
 <h1 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Carter+One&size=40&pause=1000&left=true&width=460&height=60&lines=Hi+There!+%F0%9F%91%8B;I'm+Prabhjot+Singh!" alt="Typing SVG" /></a>
@@ -100,15 +101,12 @@ mindmap
 <div style="margin: 20px 0;">
 <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,ts,react,tailwind,mysql,postgresql,sqlite,firebase,supabase,tensorflow,pytorch,sklearn,opencv,django,flask,git,github,vscode,androidstudio,figma,arduino,raspberrypi,windows,linux"alt="Tech Stack"/>
 </div>
-</div>
-
-<div align="left">
 
 ---
 
 ## ⚡ GitHub Stats
 
-<div align="left">
+<div align="center">
 
 <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prabhjot0109&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=10&bg_color=00000000">
 
@@ -124,21 +122,26 @@ mindmap
 <img height="160" alt="prabhjot0109's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/prabhjot0109?cardType=level&theme=radical&hide_border=true&border_radius=10&fontFamily=inter&preferLogin=false" />  </a>
 
 <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=prabhjot0109&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=10">
+
+</div>
+
+<!-- ---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app?username=prabhjot0109&theme=radical&column=8&margin-w=10&no-bg=false&row=1" height="100" alt="trophy graph">
 </div>
 
 ---
 
-<!-- ## 🏆 GitHub Trophies
+## 📈 Contribution Graph
 
-<img src="https://github-profile-trophy.vercel.app?username=prabhjot0109&theme=radical&column=8&margin-w=10&no-bg=false&row=1" height="100" alt="trophy graph">
-
---- -->
-
-<!-- ## 📈 Contribution Graph
-
+<div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=prabhjot0109&theme=monokai&area=true&radius=10&bg_color=FFFFFF00" height="300" alt="activity-graph graph"/>
+</div> -->
 
----  -->
+--- 
 
 ## 🐍 My Contributions
 

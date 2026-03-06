@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=prabhjot0109&label=Profile%20Views&color=blue&style=for-the-badge&base=6000&abbreviated=true" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=prabhjot0109&label=Profile%20Views&color=blue&style=flat&base=6000" alt="Profile Views" />
 </div>
 
-<h1 align="center">Hi There! 👋 <br> I'm Prabhjot Singh</h1>
+<h1 align="center">Hi!👋 <br> I'm Prabhjot Singh</h1>
 
 <h3 align="center">Computer Science & Engineering student and aspiring Software Engineer focused on building innovative tech solutions.</h3>
 

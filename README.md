@@ -1,111 +1,86 @@
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=prabhjot0109&label=Profile%20Views&color=blue&style=flat&base=6000" alt="Profile Views" />
-</div>
+<img align="right" src="https://komarev.com/ghpvc/?username=prabhjot0109&label=Profile%20Views&color=blue&style=flat&base=6000" alt="Profile Views" />
 
-<h1 align="center">Hi!👋 <br> I'm Prabhjot</h1>
+<h1>Hi! 👋 I'm Prabhjot
 
-<h3 align="center">Computer Science & Engineering student and AI Engineer focused on building innovative tech solutions.</h3>
+<h3>CSE Student & Aspiring AI Engineer</h3>
 
-<h3 align="center">🎨 Designer by heart 👨‍💻 Developer by work</h3>
+<p>🎨 Designer by heart &nbsp;·&nbsp; 👨‍💻 Developer by work</p>
 
-<div align="center">
-  <a href="mailto:prabhjotassi16@gmail.com">
-    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/prabhjotsinghassi/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://prabhjot0109.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-  <!-- <a href="https://leetcode.com/u/prabhjot0109" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a> -->
-</div>
+<a href="mailto:prabhjotnovus@gmail.com">
+  <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://www.linkedin.com/in/prabhjotsinghassi/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://prabhjot0109.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+
+
 
 ---
 
-<img align="right" src="Assets/developer.gif" width="300" alt="Developer GIF">
+<img align="right" src="Assets/developer.gif" width="280" alt="Developer GIF">
 
 ### 💻 About Me
 
-I'm a **Computer Science & Engineering** student with a passion for building things that sit at the intersection of design and technology.
+I'm a **Computer Science & Engineering** student passionate about building things at the intersection of AI and great design.
 
-- 🧠 Deeply interested in **AI/ML** — from training models to deploying real-world intelligent systems
-- 📱 Love crafting smooth, intuitive **mobile experiences** with React-Native and Flutter.
+- 🤖 Building intelligent systems with **LangChain, LLMs, RAG pipelines & Computer Vision**
+- 🧪 Shipped real-world AI apps — sign language translation, AI NPCs, crop health detection
+- 📱 Love crafting smooth, intuitive **mobile experiences** with React Native and Flutter
 - 🌐 Built full-stack **web apps** with a focus on clean UI and solid architecture
-- 🎨 Design-first mindset — I care as much about how things look as how they work
-- 🛠️ Explorer at heart — always tinkering with new tools, frameworks, and ideas
-- 🚀 Currently seeking **Internships and Job** opportunities to work on impactful projects
+- 🛠️ Currently diving deeper into **LLM fine-tuning and agentic AI workflows**
+- 🚀 Actively seeking **AI Engineer Internships & Full-time** opportunities
+- 🎮 When I'm not coding, I'm designing UIs or obsessing over details
+
+---
+
+## 🎓 Education
+
+**B.Tech — Computer Science & Engineering (Artificial Intelligence & Machine Learning)**
+`Acropolis Institute of Technology & Research` &nbsp;|&nbsp; `Indore` &nbsp;|&nbsp; Graduating: `June 2026`
+
+---
 
 ## 📌 Projects
 
-- [Signify](https://github.com/prabhjot0109/signify_sih): A Flutter app for bidirectional, real-time sign language translation that helps bridge communication between hearing and hard-of-hearing users.
-- [Sentient](https://github.com/prabhjot0109/sentient): A RAG-based AI NPC system that uses uploaded manuals and documents to generate lore-aware, context-rich in-game dialogue.
-- [Recall](https://github.com/prabhjot0109/Recall) ([Live](https://recallbookmark.vercel.app/)): An AI-powered bookmark manager with Google OAuth, real-time sync, and secure private storage.
-- [TabFlow](https://github.com/prabhjot0109/TabFlow): A Chrome extension for fast keyboard-first tab switching with search and visual tab previews.
-- [Vrinda](https://github.com/prabhjot0109/vrinda): A Flutter app that delivers AI-powered pest detection and soil-health insights to improve crop productivity.
-- [Portfolio](https://github.com/prabhjot0109/portfolio) ([Live](https://prabhjot0109.vercel.app/)): A minimalist, high-performance personal website showcasing projects, skills, and work.
+- **[Signify](https://github.com/prabhjot0109/signify_sih)** — Real-time bidirectional sign language translator using MediaPipe & deep learning. Achieved **88% gesture recognition accuracy**. Bridges communication between hearing and hard-of-hearing users. Built for **Smart India Hackathon**.
 
-<!-- ---
+- **[Sentient](https://github.com/prabhjot0109/sentient)** — RAG-based AI NPC system that ingests game manuals and documents to generate lore-aware, context-rich in-game dialogue using LLMs ith context-aware memory.
 
-<div align="left">
+- **[Vrinda](https://github.com/prabhjot0109/vrinda)** — Flutter app delivering AI-powered **pest detection** and **soil-health analysis** to farmers, helping improve crop productivity through computer vision on mobile. Designed for **low-bandwidth rural environments**.
 
-## 🧠 **Core Competencies**
+- **[Recall](https://github.com/prabhjot0109/Recall)** ([Live](https://recallbookmark.vercel.app/)) — AI-powered bookmark manager with semantic search, Google OAuth, real-time sync, and secure private storage.
 
-```mermaid
-%%{init: {
-  'theme': 'base',
-  'themeVariables': {
-    'primaryColor': '#ffffffff',
-    'primaryTextColor': '#000000ff',
-    'primaryBorderColor': '#1d4ed8',
-    'lineColor': '#597fb4ff',
-    'secondaryColor': '#0e12e9ff',
-    'tertiaryColor': '#06b6d4',
-    'background': '#596d9cff',
-    'mainBkg': '#1e293b',
-    'secondBkg': '#4f71a1ff',
-    'tertiaryBkg': '#42597aff',
-    'cScale0': '#2563eb',
-    'cScale1': '#44b9efff',
-    'cScale2': '#06d470ff',
-    'cScale3': '#e8f260ff',
-    'cScale4': '#f552a3ff'
-  }
-}}%%
+- **[TabFlow](https://github.com/prabhjot0109/TabFlow)** — Chrome extension for fast keyboard-first tab switching with fuzzy search and visual tab previews. **Zero-latency** switching with a minimal memory footprint.
 
-mindmap
-  root((💻 Tech Skills))
-    🤖 AI/ML Engineering
-      🧠 Deep Learning
-        🔥 PyTorch
-        🌐 TensorFlow
-        👁️ Computer Vision
-      📊 Machine Learning
-        🔬 Scikit-learn
-        🚀 Model Deployment
-    📱 Mobile Development
-      🎨 Flutter & Dart
-      🤖 Native Android
-    ⚙️ Backend Development
-      🐍 Python Flask
-      🔌 API Development
-    🌐 Web Development
-      ⚛️ React with Tailwind
-      🎨 Frontend
-      🔐 Auth Security
-      🔌 RESTful API
-    🔧 IoT & Hardware
-      🤖 Arduino
-      📡 Sensor Integration
-``` -->
+- **[Portfolio](https://github.com/prabhjot0109/portfolio)** ([Live](https://prabhjot0109.vercel.app/)) — Minimalist, high-performance personal website showcasing projects, skills, and work.
 
 ---
 
 ## 🚀 Tech Stack
-
-<img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,ts,react,tailwind,mysql,postgresql,sqlite,firebase,supabase,git,github,pytorch,sklearn,opencv,django,flask,vscode,androidstudio,figma,arduino,raspberrypi,linux" alt="Tech Stack"/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6929C4?style=for-the-badge&logo=llama&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6B35?style=for-the-badge&logo=graphql&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
@@ -124,7 +99,6 @@ mindmap
 </div>
 
 ---
-
 <div align="center">
-  Thank you for visiting! 😊 Feel free to connect.🌐<br>
+Thank you for visiting! 😊 Feel free to connect. 🌐<br>
 </div>

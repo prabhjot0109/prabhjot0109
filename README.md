@@ -2,9 +2,9 @@
   <img src="https://komarev.com/ghpvc/?username=prabhjot0109&label=Profile%20Views&color=blue&style=flat&base=6000" alt="Profile Views" />
 </div>
 
-<h1 align="center">Hi!👋 <br> I'm Prabhjot Singh</h1>
+<h1 align="center">Hi!👋 <br> I'm Prabhjot</h1>
 
-<h3 align="center">Computer Science & Engineering student and aspiring Software Engineer focused on building innovative tech solutions.</h3>
+<h3 align="center">Computer Science & Engineering student and AI Engineer focused on building innovative tech solutions.</h3>
 
 <h3 align="center">🎨 Designer by heart 👨‍💻 Developer by work</h3>
 
@@ -47,7 +47,7 @@ I'm a **Computer Science & Engineering** student with a passion for building thi
 - [Vrinda](https://github.com/prabhjot0109/vrinda): A Flutter app that delivers AI-powered pest detection and soil-health insights to improve crop productivity.
 - [Portfolio](https://github.com/prabhjot0109/portfolio) ([Live](https://prabhjot0109.vercel.app/)): A minimalist, high-performance personal website showcasing projects, skills, and work.
 
----
+<!-- ---
 
 <div align="left">
 
@@ -99,7 +99,7 @@ mindmap
     🔧 IoT & Hardware
       🤖 Arduino
       📡 Sensor Integration
-```
+``` -->
 
 ---
 

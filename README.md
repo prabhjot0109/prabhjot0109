@@ -4,7 +4,6 @@
 
 <h3>CSE Student & Aspiring AI Engineer</h3>
 
-<p>🎨 Designer by heart &nbsp;·&nbsp; 👨‍💻 Developer by work</p>
 
 <a href="mailto:prabhjotnovus@gmail.com">
   <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
@@ -26,7 +25,7 @@
 
 I'm a **Computer Science & Engineering** student passionate about building things at the intersection of AI and great design.
 
-- 🤖 Building intelligent systems with **LangChain, LLMs, RAG pipelines & Computer Vision**
+- 🤖 Building intelligent systems with **Machine Learning, Deep Learning, LangChain, LangGraph, LLMs, RAG & Computer Vision**
 - 🧪 Shipped real-world AI apps — sign language translation, AI NPCs, crop health detection
 - 📱 Love crafting smooth, intuitive **mobile experiences** with React Native and Flutter
 - 🌐 Built full-stack **web apps** with a focus on clean UI and solid architecture
@@ -49,6 +48,8 @@ I'm a **Computer Science & Engineering** student passionate about building thing
 
 - **[Sentient](https://github.com/prabhjot0109/sentient)** — RAG-based AI NPC system that ingests game manuals and documents to generate lore-aware, context-rich in-game dialogue using LLMs ith context-aware memory.
 
+- **[Quiz Generation Backend](https://github.com/prabhjot0109/Quiz-Generation-Backend)** — FastAPI + PostgreSQL backend that ingests PDFs/text and generates adaptive AI quizzes (MCQ, True/False, Fill-in-the-blank, Short Answer) with source traceability and dynamic difficulty adjustment.
+
 - **[Vrinda](https://github.com/prabhjot0109/vrinda)** — Flutter app delivering AI-powered **pest detection** and **soil-health analysis** to farmers, helping improve crop productivity through computer vision on mobile. Designed for **low-bandwidth rural environments**.
 
 - **[Recall](https://github.com/prabhjot0109/Recall)** ([Live](https://recallbookmark.vercel.app/)) — AI-powered bookmark manager with semantic search, Google OAuth, real-time sync, and secure private storage.
@@ -61,6 +62,7 @@ I'm a **Computer Science & Engineering** student passionate about building thing
 
 ## 🚀 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
@@ -88,7 +90,7 @@ I'm a **Computer Science & Engineering** student passionate about building thing
 
 <div align="center">
 
-<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prabhjot0109&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=10&bg_color=00000000" alt="Profile Details">
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prabhjot0109&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=10&bg_color=00000000" alt="Profile Details">'
 <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prabhjot0109&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=10" alt="Productive Time">
 <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prabhjot0109&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=10&bg_color=00000000" alt="Repos per Language">
 <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prabhjot0109&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=10&bg_color=00000000" alt="Most Commit Language">

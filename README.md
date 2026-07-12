@@ -91,10 +91,10 @@ I'm passionate about building things at the intersection of AI and great design.
 
 <div align="center">
 
-<img height="140" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prabhjot0109&mode=daily&theme=radical" alt="Profile Details">
-<img height="140" src="https://github-stats-extended.vercel.app/api/top-langs/?username=prabhjot0109&hide=dart,java&theme=radical&hide_border=true&layout=compact&langs_count=6&size_weight=0.5&count_weight=0.5" alt="Top Languages">
-<img height="140" src="https://awesome-github-stats.azurewebsites.net/user-stats/prabhjot0109?cardType=level&theme=radical&border=false&&fontFamily=inter&preferLogin=false" alt="GitHub Stats">
-<img height="140" src="https://github-readme-streak-stats.herokuapp.com?user=prabhjot0109&mode=daily&theme=radical&hide_border=true" alt="GitHub Streak">
+<img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prabhjot0109&mode=daily&theme=radical" alt="Profile Details">
+<img height="150" src="https://github-stats-extended.vercel.app/api/top-langs/?username=prabhjot0109&hide=dart,java&theme=radical&hide_border=true&layout=compact&langs_count=6&size_weight=0.5&count_weight=0.5" alt="Top Languages">
+<img height="150" src="https://awesome-github-stats.azurewebsites.net/user-stats/prabhjot0109?cardType=level&theme=radical&border=false&&fontFamily=inter&preferLogin=false" alt="GitHub Stats">
+<img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=prabhjot0109&mode=daily&theme=radical&hide_border=true" alt="GitHub Streak">
 
 </div>
 
